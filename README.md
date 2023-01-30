@@ -5,7 +5,7 @@ used to synchronize
 it with the updated data on the OpenLibrary.
 
 ## Caution
-1. Make sure setup **environment variables**.
+1. Make sure to setup **environment variables**.
 2. Although [secure-connect.zip](src/main/resources/secure-connect.zip) is 
 useless without username and password, but it's still good practice to fetch it form a
 secure vault during the **build** stage instead of including it directly 
