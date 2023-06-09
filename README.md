@@ -1,5 +1,5 @@
 # BetterReads Data Loader
-This repo is used to load the initial data to into data stack 
+This repo is used to load the initial data into data stack 
 cassandra instance for the Better Reads application. Further, it's also 
 used to synchronize 
 it with the updated data on the OpenLibrary.
